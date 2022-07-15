@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"br.com.ByteBank.Banco.modelo","c":"Tributavel","l":"getValorImposto()"}];updateSearchResults();
